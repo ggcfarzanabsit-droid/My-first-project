@@ -24,7 +24,7 @@ int main()
         if(b!=0)
            cout<<a<<"/"<<b<<"="<<a/b<<endl;
          else 
-           cout<<"MATH ERROR"<<endl;
+           cout<<"Ivalid divided by 0"<<endl;
      break;
     default:
       cout<<"Invalid Operator"<<endl;
